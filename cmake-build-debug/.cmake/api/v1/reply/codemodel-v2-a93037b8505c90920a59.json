@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "algoritmo_busca_arvore_balanceada",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "algoritmo_busca_arvore_balanceada::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algoritmo_busca_arvore_balanceada-Debug-fbb126a66e5af94a9194.json",
+					"name" : "algoritmo_busca_arvore_balanceada",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/matheusvaldevino/CLionProjects/algoritmo-busca-arvore-balanceada/cmake-build-debug",
+		"source" : "/Users/matheusvaldevino/CLionProjects/algoritmo-busca-arvore-balanceada"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
